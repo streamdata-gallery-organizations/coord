@@ -4,7 +4,7 @@ url: coord.streamdata.gallery
 tag: Coord
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: coord
 github_branch: master
 collections:
